@@ -17,7 +17,6 @@ import './app/themes/index';
 import { Toasts } from '@backpackapp-io/react-native-toast';
 import { initClient } from '@/common/api/axios-instance';
 import { APIProvider } from '@/common/api/api-provider';
-
 /**
  * const json = require('./app/library/components/vector-icon/selection.json');
  * const key = json.icons.reduce((pv, curr) => {
