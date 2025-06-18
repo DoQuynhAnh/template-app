@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>412162967986-76bs88pvrqq02cp93fbqu4omtoot2nrd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.412162967986-76bs88pvrqq02cp93fbqu4omtoot2nrd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>412162967986-b5i869qig16ilbgm1tgker43c9in69v7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAeuLHnNkaEwayFGHxBw3zj5Y6oq-E4QXo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>412162967986</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hanvietairApp.dev.v1</string>
+	<key>PROJECT_ID</key>
+	<string>hanvietair-e8b99</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hanvietair-e8b99.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:412162967986:ios:3c7f9d1dd6d18d8e04bcab</string>
+</dict>
+</plist>

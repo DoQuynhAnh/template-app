@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "412162967986",
+    "project_id": "hanvietair-e8b99",
+    "storage_bucket": "hanvietair-e8b99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412162967986:android:2242a3d50bff6ad504bcab",
+        "android_client_info": {
+          "package_name": "com.hanvietairapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412162967986-6dcljan62kfqlnf34ssshmoapr3pbc1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hanvietairapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "412162967986-eqmbm8e8gbf57ovlrdimguh363k58elv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ8VMc_v63b4Xe1MSP7b2Bf_8bwgOoH3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412162967986-eqmbm8e8gbf57ovlrdimguh363k58elv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "412162967986-76bs88pvrqq02cp93fbqu4omtoot2nrd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hanvietairApp.dev.v1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
